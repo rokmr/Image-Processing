@@ -1,5 +1,8 @@
 # Image-Processing
 
-Image Classification
-Image Segmentation
-Image Denoisiong
+1. Image Classification
+2. Image Segmentation
+3. Image Denoisiong
+ 
+
+
